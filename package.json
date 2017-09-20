@@ -1,0 +1,28 @@
+{
+  "name": "hellojs-s03e05",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviaugusto222/hellojs-s03e05.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviaugusto222/hellojs-s03e05/issues"
+  },
+  "homepage": "https://github.com/daviaugusto222/hellojs-s03e05#readme",
+  "dependencies": {
+    "body-parser": "^1.18.1",
+    "express": "^4.15.4",
+    "knex": "^0.13.0",
+    "sqlite3": "^3.1.11"
+  },
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  }
+}
